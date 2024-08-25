@@ -1,0 +1,30 @@
+# Ignore the environment file
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+venv/
+youtube_summery/
+env/
+.venv/
+ENV/
+ENV.bak/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files and other unwanted files
+*.log
+*.sqlite3
+*.db
+*.sqlite
+
+# Ignore other common sensitive files
+*.pem
+*.key
