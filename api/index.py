@@ -90,6 +90,8 @@ def get_transcript():
         'summary': summary
     })
 
+
+
 if __name__ == '__main__':
     app.run(debug=True)
 
