@@ -90,7 +90,7 @@ def get_transcript():
         'summary': summary
     })
 
-
+#adding this to hopefully work
 
 if __name__ == '__main__':
     app.run(debug=True)
