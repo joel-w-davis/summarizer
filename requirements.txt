@@ -13,3 +13,4 @@ urllib3==2.2.2
 Werkzeug==3.0.3
 youtube-transcript-api==0.6.2
 openai==1.41.0
+python-dotenv==1.0.1
